@@ -1,4 +1,3 @@
-# Project-Scarlett
 <!DOCTYPE html>
 <html lang="en">
 <head>
