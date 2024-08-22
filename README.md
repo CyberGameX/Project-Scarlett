@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="cssreadme">
+    <link rel="stylesheet" href="https://github.com/CyberGameX/Project-Scarlett/blob/3c5a6a96a06a24a3125cf4c68c29de4adb5245ee/cssreadme">
 </head>
 <body>
     <header>
